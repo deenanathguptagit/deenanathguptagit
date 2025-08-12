@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Deenanath — a passionate Android developer
-<br><br>🌱 I’m currently learning SpringBoot, MicroServices, ReactNative<br><br>👨‍💻 All of my projects are available at https://github.com/deenanathguptagit?tab=repositories<br><br>💬 Ask me about Android, Kotlin, Java, Dart, Flutter<br><br>📫 How to reach me deenanathgupta@gmail.com
+<br>🌱 I’m currently learning SpringBoot, MicroServices, ReactNative<br><br>👨‍💻 All of my projects are available at https://github.com/deenanathguptagit?tab=repositories<br><br>💬 Ask me about Android, Kotlin, Java, Dart, Flutter<br><br>📫 How to reach me deenanathgupta@gmail.com
 
 
 ## 🌐 Socials:
